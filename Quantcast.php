@@ -22,7 +22,7 @@ $wgExtensionCredits['other'][] = array(
 	'version' => '0.1',
 	'author' => 'Jack Phoenix',
 	'description' => 'Adds [http://www.quantcast.com/ Quantcast] tracking code to pages',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:Quantcast',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:Quantcast',
 );
 
 // Groups that are excluded from Quantcast statistics
