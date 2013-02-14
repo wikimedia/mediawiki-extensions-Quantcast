@@ -16,12 +16,15 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 	die( 'This is not a valid entry point to MediaWiki.' );
 }
 
+$wgExtensionMessagesFiles['Quantcast'] =  __DIR__ . '/Quantcast.i18n.php';
+
 // Extension credits that will show up on Special:Version
 $wgExtensionCredits['other'][] = array(
+	'path' => __FILE__,
 	'name' => 'Quantcast Tracking',
 	'version' => '0.1',
 	'author' => 'Jack Phoenix',
-	'description' => 'Adds [http://www.quantcast.com/ Quantcast] tracking code to pages',
+	'descriptionmsg' => 'quantcast-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Quantcast',
 );
 
