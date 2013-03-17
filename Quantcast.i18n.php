@@ -29,6 +29,13 @@ $messages['de'] = array(
 	'quantcast-desc' => 'Ergänzt den [http://www.quantcast.com/ Quantcast]-Trackingcode zu Seiten',
 );
 
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'quantcast-desc' => 'Engade o código de seguimento [http://www.quantcast.com/ Quantcast] ás páxinas',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
@@ -41,6 +48,20 @@ $messages['hsb'] = array(
  */
 $messages['ja'] = array(
 	'quantcast-desc' => 'ページに [http://www.quantcast.com/ Quantcast] 追跡コードを追加する',
+);
+
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'quantcast-desc' => '문서에 [http://www.quantcast.com/ Quantcast] 추적 코드를 추가합니다',
+);
+
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'quantcast-desc' => 'Setzt de [http://www.quantcast.com/ Quantcast]-Trackingcode op Säiten derbäi',
 );
 
 /** tarandíne (tarandíne)
