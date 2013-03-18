@@ -29,6 +29,13 @@ $messages['de'] = array(
 	'quantcast-desc' => 'Ergänzt den [http://www.quantcast.com/ Quantcast]-Trackingcode zu Seiten',
 );
 
+/** French (français)
+ * @author Peter17
+ */
+$messages['fr'] = array(
+	'quantcast-desc' => 'Ajoute le suivi de code [http://www.quantcast.com/ Quantcast] aux pages',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
