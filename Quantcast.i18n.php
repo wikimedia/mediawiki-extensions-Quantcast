@@ -71,6 +71,20 @@ $messages['lb'] = array(
 	'quantcast-desc' => 'Setzt de [http://www.quantcast.com/ Quantcast]-Trackingcode op Säiten derbäi',
 );
 
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'quantcast-desc' => 'Додава код за следење од [http://www.quantcast.com/ Quantcast] во страниците',
+);
+
+/** Dutch (Nederlands)
+ * @author Konovalov
+ */
+$messages['nl'] = array(
+	'quantcast-desc' => "Voegt [http://www.quantcast.com/ Quantcast] trackingcode toe aan pagina's",
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
