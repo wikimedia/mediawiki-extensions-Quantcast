@@ -50,6 +50,13 @@ $messages['hsb'] = array(
 	'quantcast-desc' => 'Přidawa stronam slědowanski kode [http://www.quantcast.com/ Quantcast]',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'quantcast-desc' => 'Aggiunge il codice di monitoraggio [http://www.quantcast.com/ Quantcast] alle pagine',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
