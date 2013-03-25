@@ -98,3 +98,10 @@ $messages['nl'] = array(
 $messages['roa-tara'] = array(
 	'quantcast-desc' => "Aggiunge 'u codece de tracciamende [http://www.quantcast.com/ Quantcast] a le pàggene",
 );
+
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'quantcast-desc' => 'Nagdaragdag ng kodigong pambakas ng [http://www.quantcast.com/ Quantcast] sa mga pahina',
+);
