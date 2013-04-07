@@ -22,6 +22,13 @@ $messages['qqq'] = array(
 	'quantcast-desc' => '{{desc|name=Quantcast|url=http://www.mediawiki.org/wiki/Extension:Quantcast}}',
 );
 
+/** Breton (brezhoneg)
+ * @author Y-M D
+ */
+$messages['br'] = array(
+	'quantcast-desc' => "Ouzhpennañ a ra d'ar pajennoù an heulier kod [http://www.quantcast.com/ Quantcast]",
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
