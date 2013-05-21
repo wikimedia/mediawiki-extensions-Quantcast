@@ -31,9 +31,10 @@ $messages['br'] = array(
 
 /** German (Deutsch)
  * @author Metalhead64
+ * @author Purodha
  */
 $messages['de'] = array(
-	'quantcast-desc' => 'Ergänzt den [http://www.quantcast.com/ Quantcast]-Trackingcode zu Seiten',
+	'quantcast-desc' => 'Fügt den [http://www.quantcast.com/ Quantcast]-Trackingcode zu Seiten hinzu',
 );
 
 /** French (français)
@@ -76,6 +77,13 @@ $messages['ja'] = array(
  */
 $messages['ko'] = array(
 	'quantcast-desc' => '문서에 [http://www.quantcast.com/ Quantcast] 추적 코드를 추가합니다',
+);
+
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'quantcast-desc' => 'Föösch der <i lang="en">[http://www.quantcast.com/ Quantcast]-Trackingcode</i> en de Sigge em Wiki en.',
 );
 
 /** Luxembourgish (Lëtzebuergesch)
