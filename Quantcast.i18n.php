@@ -22,6 +22,13 @@ $messages['qqq'] = array(
 	'quantcast-desc' => '{{desc|name=Quantcast|url=http://www.mediawiki.org/wiki/Extension:Quantcast}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'quantcast-desc' => 'Amestar el códigu de siguimientu [http://www.quantcast.com/ Quantcast] a les páxines',
+);
+
 /** Breton (brezhoneg)
  * @author Y-M D
  */
