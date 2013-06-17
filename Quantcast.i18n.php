@@ -127,3 +127,10 @@ $messages['roa-tara'] = array(
 $messages['tl'] = array(
 	'quantcast-desc' => 'Nagdaragdag ng kodigong pambakas ng [http://www.quantcast.com/ Quantcast] sa mga pahina',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'quantcast-desc' => '將[HTTP://www.quantcast.com/ Quantcast]跟蹤代碼添加至頁面',
+);
