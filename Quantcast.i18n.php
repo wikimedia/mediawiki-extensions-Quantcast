@@ -128,6 +128,13 @@ $messages['tl'] = array(
 	'quantcast-desc' => 'Nagdaragdag ng kodigong pambakas ng [http://www.quantcast.com/ Quantcast] sa mga pahina',
 );
 
+/** Ukrainian (українська)
+ * @author Andriykopanytsia
+ */
+$messages['uk'] = array(
+	'quantcast-desc' => 'Додає [http://www.quantcast.com/ Quantcast] відстеження коду на сторінки',
+);
+
 /** Traditional Chinese (中文（繁體）‎)
  * @author Justincheng12345
  */
