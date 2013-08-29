@@ -114,6 +114,13 @@ $messages['nl'] = array(
 	'quantcast-desc' => "Voegt [http://www.quantcast.com/ Quantcast] trackingcode toe aan pagina's",
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'quantcast-desc' => 'Apond lo seguiment de còde [http://www.quantcast.com/ Quantcast] a las paginas',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
