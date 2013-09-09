@@ -121,6 +121,13 @@ $messages['oc'] = array(
 	'quantcast-desc' => 'Apond lo seguiment de còde [http://www.quantcast.com/ Quantcast] a las paginas',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'quantcast-desc' => 'Adiciona o código de monitoramento [http://www.quantcast.com/ Quantcast] às páginas',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
