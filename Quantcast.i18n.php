@@ -135,6 +135,13 @@ $messages['roa-tara'] = array(
 	'quantcast-desc' => "Aggiunge 'u codece de tracciamende [http://www.quantcast.com/ Quantcast] a le pàggene",
 );
 
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'quantcast-desc' => 'Добавляет на страницы код отслеживания [http://www.quantcast.com/ Quantcast]',
+);
+
 /** Tagalog (Tagalog)
  * @author AnakngAraw
  */
