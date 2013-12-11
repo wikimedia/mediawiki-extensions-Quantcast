@@ -156,6 +156,13 @@ $messages['uk'] = array(
 	'quantcast-desc' => 'Додає [http://www.quantcast.com/ Quantcast] відстеження коду на сторінки',
 );
 
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'quantcast-desc' => '添加[http://www.quantcast.com/ Quantcast]跟踪代码到页面',
+);
+
 /** Traditional Chinese (中文（繁體）‎)
  * @author Justincheng12345
  */
