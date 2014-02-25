@@ -44,6 +44,13 @@ $messages['de'] = array(
 	'quantcast-desc' => 'Fügt den [http://www.quantcast.com/ Quantcast]-Trackingcode zu Seiten hinzu',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'quantcast-desc' => 'افزودن [http://www.quantcast.com/ Quantcast] کد رهگیری به صفحات',
+);
+
 /** French (français)
  * @author Peter17
  */
