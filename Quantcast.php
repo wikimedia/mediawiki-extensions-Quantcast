@@ -4,8 +4,6 @@
  *
  * @file
  * @ingroup Extensions
- * @version 0.1
- * @date 12 December 2010
  * @author Jack Phoenix <jack@shoutwiki.com> (forgive me)
  * @license http://en.wikipedia.org/wiki/Public_domain Public domain
  * @link http://www.mediawiki.org/wiki/Extension:Quantcast Documentation
@@ -16,13 +14,14 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 	die( 'This is not a valid entry point to MediaWiki.' );
 }
 
+$wgMessagesDirs['QuantCast'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['Quantcast'] =  __DIR__ . '/Quantcast.i18n.php';
 
 // Extension credits that will show up on Special:Version
 $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'Quantcast Tracking',
-	'version' => '0.1',
+	'version' => '0.2.0',
 	'author' => 'Jack Phoenix',
 	'descriptionmsg' => 'quantcast-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Quantcast',
