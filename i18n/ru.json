@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Okras"
-        ]
-    },
-    "quantcast-desc": "Добавляет на страницы код отслеживания [http://www.quantcast.com/ Quantcast]"
+	"@metadata": {
+		"authors": [
+			"Okras"
+		]
+	},
+	"quantcast-desc": "Добавляет на страницы код отслеживания [http://www.quantcast.com/ Quantcast]"
 }

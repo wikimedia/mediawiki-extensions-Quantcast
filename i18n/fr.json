@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Peter17"
-        ]
-    },
-    "quantcast-desc": "Ajoute le suivi de code [http://www.quantcast.com/ Quantcast] aux pages"
+	"@metadata": {
+		"authors": [
+			"Peter17"
+		]
+	},
+	"quantcast-desc": "Ajoute le suivi de code [http://www.quantcast.com/ Quantcast] aux pages"
 }

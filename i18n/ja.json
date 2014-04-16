@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "quantcast-desc": "ページに [http://www.quantcast.com/ Quantcast] 追跡コードを追加する"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"quantcast-desc": "ページに [http://www.quantcast.com/ Quantcast] 追跡コードを追加する"
 }

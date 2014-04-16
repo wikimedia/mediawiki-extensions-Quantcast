@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Bjankuloski06"
-        ]
-    },
-    "quantcast-desc": "Додава код за следење од [http://www.quantcast.com/ Quantcast] во страниците"
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"quantcast-desc": "Додава код за следење од [http://www.quantcast.com/ Quantcast] во страниците"
 }

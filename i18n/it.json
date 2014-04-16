@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Beta16"
-        ]
-    },
-    "quantcast-desc": "Aggiunge il codice di monitoraggio [http://www.quantcast.com/ Quantcast] alle pagine"
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"quantcast-desc": "Aggiunge il codice di monitoraggio [http://www.quantcast.com/ Quantcast] alle pagine"
 }

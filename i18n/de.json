@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Metalhead64",
-            "Purodha"
-        ]
-    },
-    "quantcast-desc": "Fügt den [http://www.quantcast.com/ Quantcast]-Trackingcode zu Seiten hinzu"
+	"@metadata": {
+		"authors": [
+			"Metalhead64",
+			"Purodha"
+		]
+	},
+	"quantcast-desc": "Fügt den [http://www.quantcast.com/ Quantcast]-Trackingcode zu Seiten hinzu"
 }

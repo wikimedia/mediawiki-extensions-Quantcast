@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cainamarques"
-        ]
-    },
-    "quantcast-desc": "Adiciona o código de monitoramento [http://www.quantcast.com/ Quantcast] às páginas"
+	"@metadata": {
+		"authors": [
+			"Cainamarques"
+		]
+	},
+	"quantcast-desc": "Adiciona o código de monitoramento [http://www.quantcast.com/ Quantcast] às páginas"
 }
