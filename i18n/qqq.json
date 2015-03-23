@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Raymond"
+			"Raymond",
+			"Umherirrender"
 		]
 	},
-	"quantcast-desc": "{{desc|name=Quantcast|url=http://www.mediawiki.org/wiki/Extension:Quantcast}}"
+	"quantcast-desc": "{{desc|name=Quantcast|url=https://www.mediawiki.org/wiki/Extension:Quantcast}}"
 }
