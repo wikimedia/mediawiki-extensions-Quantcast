@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jack Phoenix"
-        ]
-    },
-    "quantcast-desc": "Adds [http://www.quantcast.com/ Quantcast] tracking code to pages"
+	"@metadata": {
+		"authors": [
+			"Jack Phoenix"
+		]
+	},
+	"quantcast-desc": "Adds [http://www.quantcast.com/ Quantcast] tracking code to pages"
 }
