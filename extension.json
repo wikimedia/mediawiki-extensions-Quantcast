@@ -1,0 +1,27 @@
+{
+	"name": "Quantcast Tracking",
+	"version": "0.4.0",
+	"author": [
+		"Jack Phoenix"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:Quantcast",
+	"descriptionmsg": "quantcast-desc",
+	"type": "other",
+	"config": {
+		"QuantcastTrackingExcludedGroups": [ "staff" ]
+	},
+	"MessagesDirs": {
+		"Quantcast": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"QuantcastTracking": "QuantcastTracking.class.php"
+	},
+	"Hooks": {
+		"SkinAfterBottomScripts": [
+			"QuantcastTracking::onSkinAfterBottomScripts"
+		]
+	},
+	"manifest_version": 1
+}
