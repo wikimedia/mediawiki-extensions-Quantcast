@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"quantcast-desc": "Legger til [http://www.quantcast.com/ Quantcast]-sporingskode til sider"
+}
