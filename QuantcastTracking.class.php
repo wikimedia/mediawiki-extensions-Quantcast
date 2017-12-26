@@ -25,7 +25,7 @@ class QuantcastTracking {
 
 		$groups = $skin->getUser()->getEffectiveGroups();
 		if ( !in_array( $wgQuantcastTrackingExcludedGroups, $groups ) ) {
-		$message = $skin->msg( 'quantcast-tracking-number' )->inContentLanguage();
+			$message = $skin->msg( 'quantcast-tracking-number' )->inContentLanguage();
 			// We have a custom tracking code, use it!
 			if ( !$message->isDisabled() ) {
 				$trackingCode = trim( $message->text() );
@@ -39,9 +39,9 @@ class QuantcastTracking {
 			qacct: "' . $safeCode . '"
 		};
 		/*]]>*/</script>
-		<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+		<script type="text/javascript" src="//edge.quantserve.com/quant.js"></script>
 		<noscript>
-		<img src="http://pixel.quantserve.com/pixel/' . $safeCode . '.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+		<img src="//pixel.quantserve.com/pixel/' . $safeCode . '.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
 		</noscript>
 		<!-- End Quantcast tag -->' . "\n\n";
 		}

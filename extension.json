@@ -1,6 +1,6 @@
 {
 	"name": "Quantcast Tracking",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"author": [
 		"Jack Phoenix"
 	],
@@ -19,9 +19,7 @@
 		"QuantcastTracking": "QuantcastTracking.class.php"
 	},
 	"Hooks": {
-		"SkinAfterBottomScripts": [
-			"QuantcastTracking::onSkinAfterBottomScripts"
-		]
+		"SkinAfterBottomScripts": "QuantcastTracking::onSkinAfterBottomScripts"
 	},
 	"manifest_version": 1
 }
