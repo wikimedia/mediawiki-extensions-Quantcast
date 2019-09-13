@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Railfail536"
+			"Railfail536",
+			"Rail"
 		]
 	},
 	"quantcast-desc": "Dodaje śledzenie ruchu [https://www.quantcast.com/ Quantcast] do stron"
