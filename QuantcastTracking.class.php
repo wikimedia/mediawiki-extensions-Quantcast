@@ -1,4 +1,7 @@
 <?php
+
+use MediaWiki\MediaWikiServices;
+
 /**
  * Quantcast tracking extension -- adds Quantcast tracking JS code to all pages
  *
@@ -23,7 +26,7 @@ class QuantcastTracking {
 	public static function onSkinAfterBottomScripts( $skin, &$text ) {
 		global $wgQuantcastTrackingExcludedGroups;
 
-		$groups = $skin->getUser()->getEffectiveGroups();
+		$groups = MediaWikiServices::getInstance()->getUserGroupManager()->getUserEffectiveGroups( $skin->getUser() );
 		if ( !in_array( $wgQuantcastTrackingExcludedGroups, $groups ) ) {
 			$message = $skin->msg( 'quantcast-tracking-number' )->inContentLanguage();
 			// We have a custom tracking code, use it!
