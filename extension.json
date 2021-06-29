@@ -10,6 +10,9 @@
 	"config": {
 		"QuantcastTrackingExcludedGroups": [ "staff" ]
 	},
+	"requires": {
+		"MediaWiki": ">= 1.36.0"
+	},
 	"MessagesDirs": {
 		"Quantcast": [
 			"i18n"
